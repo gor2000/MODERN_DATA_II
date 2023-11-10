@@ -84,3 +84,5 @@ data/washinton dc 2023-03-01 to 2023-11-03.csv
 data/.DS_Store
 .idea/.gitignore
 data.zip
+final_data.csv
+test.ipynb
